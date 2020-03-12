@@ -1,0 +1,14 @@
+:root {
+    --a: #0264fb --b: #ffb03a --c: #000000 --d: #4b4b4b --e: #ffffff
+}
+
+html {
+    box-sizing: border-box;
+    min-width: 100%;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
